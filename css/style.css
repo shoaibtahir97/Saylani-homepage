@@ -1,0 +1,113 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+div {
+    display: block;
+}
+.topbar{
+    background-color: #316DC3;
+}
+.second-color{
+    color: rgb(0, 255, 0); 
+}
+
+.counter{
+    font-family:'Merriweather', serif;
+    font-size: 50px;
+    background-color:#2755e9 ;
+}
+.text-themeout-colored {
+    color: #427900 !important;
+}
+.text-uppercase{
+    color: #316DC3;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif, serif;
+}
+
+.font-weight-600 {
+    font-weight: 600 !important;}
+    
+/* tilte */
+.title-icon {
+    margin: 0 auto;
+    max-width: 160px;
+    position: relative;
+    }
+    .seperate{
+        width: 70px;
+        height: 3px;
+        background-color: #427900;
+        display: block;
+    }
+    .more-details{
+        color: blue;
+    }
+    .projects marquee{
+        height: 200px;
+    }
+    .header{
+        background-color: #f7f8fa;
+    }
+    .menu{
+        float: right;
+        margin-top: 20px;
+    
+    }
+    
+    .menu ul li{
+        display: inline-block;
+    }
+    
+    
+    .menu ul li a{
+        padding: 10px 25px  ;
+        color: black;
+        font-size: 14px;
+    }
+    
+    
+    .menu ul li a:hover{
+        background-color: #316dc3;
+        color:#fff;
+        border-radius: 20px;
+    
+    }
+    .marquee{
+        background-color: white;
+        margin: 2px auto;
+        padding: 0px auto;
+    
+    }
+    
+    .patti{
+        background-color: #316dc3;
+        width: 80%;
+        height: 1.5%;
+        align: center;
+        padding: 10px 10px;
+    }
+    
+    .second {
+        color:rgb(0, 255, 0);
+    }
+    
+.detail{
+    color: blue;
+    }
+ 
+.marquee{
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.green{
+    color: rgb(65, 184, 65);
+}
+
